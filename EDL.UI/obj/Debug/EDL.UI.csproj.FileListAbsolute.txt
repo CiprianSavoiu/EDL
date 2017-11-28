@@ -1,0 +1,14 @@
+C:\#Courses\Pluralsight\c#\05EventsDelegatesLambda\EDL\EDL.UI\bin\Debug\EDL.UI.exe.config
+C:\#Courses\Pluralsight\c#\05EventsDelegatesLambda\EDL\EDL.UI\bin\Debug\EDL.UI.exe
+C:\#Courses\Pluralsight\c#\05EventsDelegatesLambda\EDL\EDL.UI\bin\Debug\EDL.UI.pdb
+C:\#Courses\Pluralsight\c#\05EventsDelegatesLambda\EDL\EDL.UI\obj\Debug\EDL.UI.csprojResolveAssemblyReference.cache
+C:\#Courses\Pluralsight\c#\05EventsDelegatesLambda\EDL\EDL.UI\obj\Debug\MainWindow.g.cs
+C:\#Courses\Pluralsight\c#\05EventsDelegatesLambda\EDL\EDL.UI\obj\Debug\App.g.cs
+C:\#Courses\Pluralsight\c#\05EventsDelegatesLambda\EDL\EDL.UI\obj\Debug\EDL.UI_MarkupCompile.cache
+C:\#Courses\Pluralsight\c#\05EventsDelegatesLambda\EDL\EDL.UI\obj\Debug\EDL.UI_MarkupCompile.lref
+C:\#Courses\Pluralsight\c#\05EventsDelegatesLambda\EDL\EDL.UI\obj\Debug\MainWindow.baml
+C:\#Courses\Pluralsight\c#\05EventsDelegatesLambda\EDL\EDL.UI\obj\Debug\EDL.UI.g.resources
+C:\#Courses\Pluralsight\c#\05EventsDelegatesLambda\EDL\EDL.UI\obj\Debug\EDL.UI.Properties.Resources.resources
+C:\#Courses\Pluralsight\c#\05EventsDelegatesLambda\EDL\EDL.UI\obj\Debug\EDL.UI.csproj.GenerateResource.Cache
+C:\#Courses\Pluralsight\c#\05EventsDelegatesLambda\EDL\EDL.UI\obj\Debug\EDL.UI.exe
+C:\#Courses\Pluralsight\c#\05EventsDelegatesLambda\EDL\EDL.UI\obj\Debug\EDL.UI.pdb
