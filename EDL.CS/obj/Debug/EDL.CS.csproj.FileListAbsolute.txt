@@ -1,0 +1,6 @@
+C:\#Courses\Pluralsight\c#\05EventsDelegatesLambda\EDL\EDL.CS\bin\Debug\EDL.CS.exe.config
+C:\#Courses\Pluralsight\c#\05EventsDelegatesLambda\EDL\EDL.CS\bin\Debug\EDL.CS.exe
+C:\#Courses\Pluralsight\c#\05EventsDelegatesLambda\EDL\EDL.CS\bin\Debug\EDL.CS.pdb
+C:\#Courses\Pluralsight\c#\05EventsDelegatesLambda\EDL\EDL.CS\obj\Debug\EDL.CS.csprojResolveAssemblyReference.cache
+C:\#Courses\Pluralsight\c#\05EventsDelegatesLambda\EDL\EDL.CS\obj\Debug\EDL.CS.exe
+C:\#Courses\Pluralsight\c#\05EventsDelegatesLambda\EDL\EDL.CS\obj\Debug\EDL.CS.pdb
