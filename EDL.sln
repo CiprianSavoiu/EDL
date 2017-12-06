@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EDL.UI", "EDL.UI\EDL.UI.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EDL.CS", "EDL.CS\EDL.CS.csproj", "{91EA130D-39CF-4FF2-A194-EE9EABEFBE72}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EDL.WPF", "EDL.WPF\EDL.WPF.csproj", "{BE7B5B0D-2928-4294-8CDD-DF072C835496}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{91EA130D-39CF-4FF2-A194-EE9EABEFBE72}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91EA130D-39CF-4FF2-A194-EE9EABEFBE72}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91EA130D-39CF-4FF2-A194-EE9EABEFBE72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE7B5B0D-2928-4294-8CDD-DF072C835496}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE7B5B0D-2928-4294-8CDD-DF072C835496}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE7B5B0D-2928-4294-8CDD-DF072C835496}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE7B5B0D-2928-4294-8CDD-DF072C835496}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
